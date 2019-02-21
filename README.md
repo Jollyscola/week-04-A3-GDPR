@@ -22,7 +22,7 @@ After this week, you should be able to:
 * The regulations are being passed into Danish law (and into the laws of all the other member states). [This Danish text to explain things well too](Persondataforordningen_DetSkalDuHaveStyrPaai2018.pdf)
 
 ### How to encrypt
-We will use the [slides](05-A3%20and%20GDPR.pdf) and sample code for this.
+We will use the [slides](04-A3%20and%20GDPR.pdf) and sample code for this.
 
 ## Exercises
 The main focus of the exercises for this week is to be able to encrypt and decrypt data using the libraries of Java.
@@ -53,3 +53,10 @@ This exercise is about writing a small toy editor which allow you to store small
 * __GDPR__ General Data Protection Regulation
 * __TLS__ Transport Layer Security
 * __TDE__ Transparent Data Encryption
+
+## Exam questions
+
+* Enumerate the major kinds of sensitive data as defined by the EU law (Danish law is the same).
+* Explain the concepts of privacy by default and by design
+* Explain the difference between controller and processor roles in the protection of private data.
+* Explain how to use Java to encrypt and decrypt information
